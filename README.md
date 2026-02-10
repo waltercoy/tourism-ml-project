@@ -51,7 +51,10 @@ The objectives of this project are:
 2) **International Tourist Arrivals**
    - Country-year time series of international tourist arrivals.
    - Used as the supervised learning target (arrivals forecasting).
-
+   - Source (Kaggle):
+     ```
+     https://www.kaggle.com/datasets/abmsayem/global-tourism?resource=download&select=international-tourist-arrivals.csv
+     ```
 ## Download Data
 You can download the datasets manually from Kaggle or via the Kaggle CLI.
 
